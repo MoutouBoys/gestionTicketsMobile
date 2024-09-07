@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35922709972",
+    "project_id": "gestion-de-tickets-ef5db",
+    "storage_bucket": "gestion-de-tickets-ef5db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35922709972:android:34f4e066ee168fe42d1a41",
+        "android_client_info": {
+          "package_name": "com.example.gestion_tickets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJIEeC5GFEZkIGZyOgKaMbo0hEHEu8lIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
